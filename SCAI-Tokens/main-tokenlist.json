@@ -1,0 +1,31 @@
+{
+  "name": "SCAI LIST",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+
+    {
+      "chainId": 34,
+      "address": "0xe30e2f0afd56dacf8b8d4afbc594f63ee21b9441",
+      "name": "WSCAI",
+      "symbol": "WSCAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SecureChainAI/DEX/main/SCAI-Tokens/assets/0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441.png"
+    }
+
+
+
+    
+
+  ]
+}
