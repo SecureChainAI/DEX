@@ -49,6 +49,16 @@
       "symbol": "MATIC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SecureChainAI/DEX/main/SCAI-Tokens/assets/0xb0723Eaf7fa3d83cBB9fEdf9c3DC253089156505.png"
+    },
+
+
+    {
+      "chainId": 34,
+      "address": "0x3A15028e6b1d1040f64BC19f0D89A336eA45D8a5",
+      "name": "USDS",
+      "symbol": "USDS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SecureChainAI/DEX/main/SCAI-Tokens/assets/0x3A15028e6b1d1040f64BC19f0D89A336eA45D8a5.png"
     }
 
 
