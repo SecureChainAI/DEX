@@ -21,6 +21,34 @@
       "symbol": "WSCAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SecureChainAI/DEX/main/SCAI-Tokens/assets/0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441.png"
+    },
+
+
+    {
+      "chainId": 34,
+      "address": "0x84734364e77b1EfEbE507a76645888CB2CE69B81",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SecureChainAI/DEX/main/SCAI-Tokens/assets/0x84734364e77b1EfEbE507a76645888CB2CE69B81.png"
+    },
+
+    {
+      "chainId": 34,
+      "address": "0x52c7142203CD1BDB2Fd344D18f167be4Ccd680a5",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SecureChainAI/DEX/main/SCAI-Tokens/assets/0x52c7142203CD1BDB2Fd344D18f167be4Ccd680a5.png"
+    },
+
+    {
+      "chainId": 34,
+      "address": "0xb0723Eaf7fa3d83cBB9fEdf9c3DC253089156505",
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SecureChainAI/DEX/main/SCAI-Tokens/assets/0xb0723Eaf7fa3d83cBB9fEdf9c3DC253089156505.png"
     }
 
 
